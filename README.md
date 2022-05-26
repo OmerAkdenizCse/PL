@@ -2,7 +2,7 @@
 
 Owner of project : Ömer Özkılıç
 Name of the programming language : Lan
-BNF 
+BNF "
   <function> ::= <function> <stmt>       
         |
 
@@ -39,4 +39,4 @@ BNF
         | <expr> '||' <expr>        
         | <expr> '&&' <expr>        
         | '(' <expr> ')'          
-  
+  "
